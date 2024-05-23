@@ -1,0 +1,147 @@
+Rule	Ugric	Position	Hungarian	Khanty	Mansi	Sumerian							
+1	š	Initial	-	"l, t"	t	"š, s, z"							
+1	š	Medial	"d’, š, s, z, -"	"s, t, -"	"s, t, t’, -"	"š, s, z"							
+1	š	Final	"d’, š, s, z, -"	"s, t, -"	"s, t, t’, -"	"š, s, z"							
+1	š	Last Syl				"š, s, z"							
+1	š	other				"š, s, z"							
+1	s	Initial	-	"l, t"	t	"š, s, z"							
+1	s	Medial	"d’, š, s, z, -"	"s, t, -"	"s, t, t’, -"	"š, s, z"							
+1	s	Final	"d’, š, s, z, -"	"s, t, -"	"s, t, t’, -"	"š, s, z"							
+1	s	Last Syl				"š, s, z"							
+1	s	other				"š, s, z"							
+2	č	Initial	"č, d’, š, s, ž"	"č, s, ŧ"	"š, s"	"š, s, z"							
+2	č	Medial	"č, d’, š, s, ž"	"č, s, ŧ"	"š, s"	"š, s, z"							
+2	č	Final	"č, d’, š, s, ž"	"č, s, ŧ"	"š, s"	"š, s, z"							
+2	č	Last Syl	"č, d’, š, s, ž"	"č, s, ŧ"	"š, s"	"š, s, z"							
+2	č	other	"č, d’, š, s, ž"	"č, s, ŧ"	"š, s"	"š, s, z"							
+3	ś	Initial	"š, s, z"	s	s	"š, s, z"							
+3	ś	Medial	"š, s, z"	s	s	"š, s, z"							
+3	ś	Final	"š, s, z"	s	s	"š, s, z"							
+3	ś	Last Syl	"š, s, z"	s	s	"š, s, z"							
+3	ś	other	"š, s, z"	s	s	"š, s, z"							
+4	d	Initial	"d, l"	"l, t"	l	d							
+4	d	Medial	"d, l"	"l, t"	l	d							
+4	d	Final	"d, l"	"l, t"	l	d							
+4	d	Last Syl	"d, l"	"l, t"	l	d							
+4	d	other	"d, l"	"l, t"	l	d							
+5	t	Initial	"d, t"	t	t	"d, š, t"							
+5	t	Medial	"d, t"	t	t	"d, š, t"							
+5	t	Final	"d, t"	t	t	"d, š, t"							
+5	t	Last Syl	z	t	t	"d, š, t"							
+5	t	other		t	t	"d, š, t"							
+5	tt	Initial	"d, t"	t	t	"d, š, t"							
+5	tt	Medial	"d, t"	t	t	"d, š, t"							
+5	tt	Final	"d, t"	t	t	"d, š, t"							
+5	tt	Last Syl	z	t	t	"d, š, t"							
+5	tt	other		t	t	"d, š, t"							
+6	d’	Initial		"j, t’"	"l', t’"	"d, r"							
+6	d’	Medial	"d', j, l’, t’"	"j, t’"	"l', t’"	"d, r"							
+6	d’	Final	"d', j, l’, t’"	"j, t’"	"l', t’"	"d, r"							
+6	d’	Last Syl	"š, s"	"j, t’"	"l', t’"	"d, r"							
+6	d’	other		"j, t’"	"l', t’"	"d, r"							
+6	t’	Initial		"j, t’"	"l', t’"	"d, r"							
+6	t’	Medial	"d', j, l’, t’"	"j, t’"	"l', t’"	"d, r"							
+6	t’	Final	"d', j, l’, t’"	"j, t’"	"l', t’"	"d, r"							
+6	t’	Last Syl	"š, s"	"j, t’"	"l', t’"	"d, r"							
+6	t’	other		"j, t’"	"l', t’"	"d, r"							
+7	mp	Initial	b	mp	mp	b							
+7	mp	Medial	b	mp	mp	b							
+7	mp	Final	b	mp	mp	b							
+7	mp	Last Syl	b	mp	mp	b							
+7	mp	other	b	mp	mp	b							
+8	p	Initial	"b, f"	P	p	"b, bb, p"							
+8	p	Medial	"p, v, -"	"p, w"	p	"b, bb, p"							
+8	p	Final	"p, v, -"	"p, w"	p	"b, bb, p"							
+8	p	Last Syl			p	"b, bb, p"							
+8	p	other			p	"b, bb, p"							
+8	pp	Initial	"b, f"	P	p	"b, bb, p"							
+8	pp	Medial	"p, v, -"	"p, w"	p	"b, bb, p"							
+8	pp	Final	"p, v, -"	"p, w"	p	"b, bb, p"							
+8	pp	Last Syl			p	"b, bb, p"							
+8	pp	other			p	"b, bb, p"							
+9	ḫ	Initial	h	"h, k"	"h, k"	"h, -"							
+9	ḫ	Medial	h	"h, k"	"h, k"	"h, -"							
+9	ḫ	Final	h	"h, k"	"h, k"	"h, -"							
+9	ḫ	Last Syl	h	"h, k"	"h, k"	"h, -"							
+9	ḫ	other	h	"h, k"	"h, k"	"h, -"							
+10	k	Initial	h	"h, g, k"	"h, k"	"g, h, k, -"							
+10	k	Medial	"g, k, -"	"h, g, k"	"h, g, k, w"	"g, h, k, -"							
+10	k	Final	"g, k, -"	"h, g, k"	"h, g, k, w"	"g, h, k, -"							
+10	k	Last Syl	"g, k, -"	"h, g, k"	"h, g, k, w"	"g, h, k, -"							
+10	k	other	"g, k, -"	"h, g, k"	"h, g, k, w"	"g, h, k, -"							
+10	kk	Initial	h	"h, g, k"	"h, k"	"g, h, k, -"							
+10	kk	Medial	"g, k, -"	"h, g, k"	"h, g, k, w"	"g, h, k, -"							
+10	kk	Final	"g, k, -"	"h, g, k"	"h, g, k, w"	"g, h, k, -"							
+10	kk	Last Syl	"g, k, -"	"h, g, k"	"h, g, k, w"	"g, h, k, -"							
+10	kk	other	"g, k, -"	"h, g, k"	"h, g, k, w"	"g, h, k, -"							
+10B	kt	Initial	"t, (d)"	t	t	"gg, kk"							
+10B	kt	Medial	"t, (d)"	t	t	"gg, kk"							
+10B	kt	Final	"t, (d)"	t	t	"gg, kk"							
+10B	kt	Last Syl	"t, (d)"	t	t	"gg, kk"							
+10B	kt	other	"t, (d)"	t	t	"gg, kk"							
+10B	(kd)	Initial	"t, (d)"	t	t	"gg, kk"							
+10B	(kd)	Medial	"t, (d)"	t	t	"gg, kk"							
+10B	(kd)	Final	"t, (d)"	t	t	"gg, kk"							
+10B	(kd)	Last Syl	"t, (d)"	t	t	"gg, kk"							
+10B	(kd)	other	"t, (d)"	t	t	"gg, kk"							
+11	l	Initial	l	l	l	"l, r"							
+11	l	Medial	l	l	l	"l, r"							
+11	l	Final	l	l	l	"l, r"							
+11	l	Last Syl	l	l	l	"l, r"							
+11	l	other	l	l	l	"l, r"							
+11b	l'	Initial	"l', d’, j"	"j, l', ł"	l'	l							
+11b	l'	Medial	"l', d’, j"	"j, l', ł"	l'	l							
+11b	l'	Final	"l', d’, j"	"j, l', ł"	l'	l							
+11b	l'	Last Syl	"l', d’, j"	"j, l', ł"	l'	l							
+11b	l'	other	"l', d’, j"	"j, l', ł"	l'	l							
+12	r	Initial	r	r	r	r							
+12	r	Medial	r	r	r	r							
+12	r	Final	r	r	r	r							
+12	r	Last Syl	r	r	r	r							
+12	r	other	r	r	r	r							
+13	m	Initial	m	m	m	"b, m"							
+13	m	Medial	"m, v, -"	m	m	m							
+13	m	Final	"m, v, -"	m	m	m							
+13	m	Last Syl	"m, v, -"	m	m	m							
+13	m	other	"m, v, -"	m	m	m							
+14	n	Initial	"n, ń"	n	"n, ń"	n							
+14	n	Medial	"n, ń"	n	"n, ń"	n							
+14	n	Final	"n, ń"	n	"n, ń"	n							
+14	n	Last Syl	"n, ń"	n	"n, ń"	n							
+14	n	other	"n, ń"	n	"n, ń"	n							
+14b	ń	Initial	ń	ń	ń	"n, -"							
+14b	ń	Medial	ń	ń	ń	"n, -"							
+14b	ń	Final	ń	ń	ń	"n, -"							
+14b	ń	Last Syl	ń	ń	ń	"n, -"							
+14b	ń	other	ń	ń	ń	"n, -"							
+14c	ŋ	Initial	"g, k, ng, nk, d’, ń, v"	"g, m, ŋ, ŋg, ŋk, w"	"g, k, m, ŋ, ŋh, ŋk"	"g, j, m, n, ŋ"							
+14c	ŋ	Medial	"g, k, ng, nk, d’, ń, v"	"g, m, ŋ, ŋg, ŋk, w"	"g, k, m, ŋ, ŋh, ŋk"	"g, j, m, n, ŋ"							
+14c	ŋ	Final	"g, k, ng, nk, d’, ń, v"	"g, m, ŋ, ŋg, ŋk, w"	"g, k, m, ŋ, ŋh, ŋk"	"g, j, m, n, ŋ"							
+14c	ŋ	Last Syl	"g, k, ng, nk, d’, ń, v"	"g, m, ŋ, ŋg, ŋk, w"	"g, k, m, ŋ, ŋh, ŋk"	"g, j, m, n, ŋ"							
+14c	ŋ	other	"g, k, ng, nk, d’, ń, v"	"g, m, ŋ, ŋg, ŋk, w"	"g, k, m, ŋ, ŋh, ŋk"	"g, j, m, n, ŋ"							
+14d	nt	Initial	"d, t"	nt	"nn, nt"	d							
+14d	nt	Medial	"d, t"	nt	"nn, nt"	d							
+14d	nt	Final	"d, t"	nt	"nn, nt"	d							
+14d	nt	Last Syl	"d, t"	nt	"nn, nt"	d							
+14d	nt	other	"d, t"	nt	"nn, nt"	d							
+15	w	Initial	"v, -"	"w, -"	"w, -"	"b, m, -"							
+15	w	Medial	"v, -"	"w, -"	"w, -"	"b, m, -"							
+15	w	Final	"v, -"	"w, -"	"w, -"	"b, m, -"							
+15	w	Last Syl	"v, -"	"w, -"	"w, -"	"b, m, -"							
+15	w	other	"v, -"	"w, -"	"w, -"	"b, m, -"							
+16	j	Initial	"d’, j, -"	"j, -"	"j, -"	-							
+16	j	Medial	"d’, j, -"	"j, -"	"j, -"	-							
+16	j	Final	"d’, j, -"	"j, -"	"j, -"	-							
+16	j	Last Syl	"d’, j, -"	"j, -"	"j, -"	-							
+16	j	other	"d’, j, -"	"j, -"	"j, -"	-							
+16	-	Initial	"d’, j, -"	"j, -"	"j, -"	-							
+16	-	Medial	"d’, j, -"	"j, -"	"j, -"	-							
+16	-	Final	"d’, j, -"	"j, -"	"j, -"	-							
+16	-	Last Syl	"d’, j, -"	"j, -"	"j, -"	-							
+16	-	other	"d’, j, -"	"j, -"	"j, -"	-							
+16b	jk	Initial	"g, h, -"	g	"g, w"	ŋ							
+16b	jk	Medial	"g, h, -"	g	"g, w"	ŋ							
+16b	jk	Final	"g, h, -"	g	"g, w"	ŋ							
+16b	jk	Last Syl	"g, h, -"	g	"g, w"	ŋ							
+16b	jk	other	"g, h, -"	g	"g, w"	ŋ							
+													
