@@ -8,3 +8,5 @@ implementation, we assumed that a vowel does not change to another vowel, but se
  
 We tested our algorithm on the following hypothetical protowords: ket, kin, kota, l’uk, mene, muna, pede, pele, puw, śije, śoli, wul
 
+You can find the structured output of our algorithm at Output.png. It shows the descendant languages equivalent of the above words.
+
